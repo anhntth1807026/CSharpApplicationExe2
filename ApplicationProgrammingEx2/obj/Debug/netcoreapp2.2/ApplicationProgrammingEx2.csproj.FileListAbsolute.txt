@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\obj\Debug\netcoreapp2.2\ApplicationProgrammingEx2.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\obj\Debug\netcoreapp2.2\ApplicationProgrammingEx2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\obj\Debug\netcoreapp2.2\ApplicationProgrammingEx2.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\obj\Debug\netcoreapp2.2\ApplicationProgrammingEx2.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\bin\Debug\netcoreapp2.2\ApplicationProgrammingEx2.deps.json
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\bin\Debug\netcoreapp2.2\ApplicationProgrammingEx2.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\bin\Debug\netcoreapp2.2\ApplicationProgrammingEx2.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\bin\Debug\netcoreapp2.2\ApplicationProgrammingEx2.dll
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\bin\Debug\netcoreapp2.2\ApplicationProgrammingEx2.pdb
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\obj\Debug\netcoreapp2.2\ApplicationProgrammingEx2.dll
+C:\Users\Admin\RiderProjects\ApplicationProgrammingEx2\ApplicationProgrammingEx2\obj\Debug\netcoreapp2.2\ApplicationProgrammingEx2.pdb
